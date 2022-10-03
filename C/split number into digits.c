@@ -1,3 +1,8 @@
+//wap a program to spilt number into digits 
+//input -324
+//output- 423
+
+
 #include<stdio.h>
 
 int main()
